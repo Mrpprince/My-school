@@ -1,0 +1,64 @@
+.navbar-brand img
+{
+    width: 120px;
+    height: 70px;
+}
+
+.bg-color
+{
+    background: #f0fff0;
+}
+.sign-in
+{
+    padding: 10px 30px;
+    background-color:#21B573;
+    border: none;
+    border-radius: 20px;
+    color: #fff;
+    
+}
+.col-7 img
+{
+    width: 600px;
+}
+.col-7 p
+{
+    color: dimgray;
+}
+.container
+{
+    margin-bottom: 150px;;
+}
+cat-details{
+    text-align: center;
+}
+.cat1, .cat2, .cat3{
+    padding: 34px;  
+    background-color: #F8FFFB;
+    border-radius: 10px;
+}
+.cat img{
+    width: 50%;
+}
+.cat-details{
+    margin: 1.5rem;
+}
+.weight
+{
+    font-weight: 800;
+}
+.padding
+{
+    padding: 100px;
+}
+
+.cat1
+{
+    border: none;
+    box-shadow: 5px 5px 10px;
+}
+
+
+
+
+
